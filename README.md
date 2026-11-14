@@ -30,7 +30,7 @@
 
 ## 2. Структура репозитория
 * `olist_analysis.ipynb` — полный пайплайн анализа в Python (SQL-выгрузка, очистка, EDA, когорты, ML-модель, стат-тесты).
-* `sql/extract_olist.sql` — чистый SQL-запрос с использованием CTE и оконных функций.
+* `extract_olist.sql` — чистый SQL-запрос с использованием CTE и оконных функций.
 * `dashbord/` — исходный файл дашборда Power BI (`.pbix`) и его превью.
 * `requirements.txt` — список зависимостей с версиями библиотек.
 * `.gitignore` и `LICENSE` — конфигурация репозитория и лицензия MIT.
@@ -47,9 +47,10 @@
 ---
 
 ## 4. Интерактивный дашборд
-📥 **[Скачать файл дашборда Power BI (.pbix)](dashbord/online_shop_dashboard.pbix)**
 
-![Скриншот дашборда](dashbord/dashboard_preview.png)
+![Скриншот дашборда](dashboard_preview.png)
+
+📥 **[Скачать файл дашборда Power BI (.pbix)](online_shop_dashboard.pbix)**
 
 ---
 
