@@ -31,7 +31,7 @@
   1. Как распределена выручка по регионам и отличается ли средний чек в столичном штате от остальных?
   2. Какова динамика удержания (Retention) и накопительного LTV по когортам клиентов?
   3. Насколько точно количество товаров и стоимость доставки позволяют прогнозировать итоговую сумму заказа?
-* **Источник и описание данных:** Открытый датасет [Brazilian E-Commerce Public Dataset by Olist (Kaggle)]([https://kaggle.com](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data). В работе объединены 4 реляционные таблицы (~100 тыс. доставленных заказов за 2016–2018 гг.): заказы (`orders`), уникальные клиенты и их география (`customers`), платежи (`order_payments`) и товарные позиции со стоимостью доставки (`order_items`).
+* **Источник и описание данных:** Открытый датасет [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data). В работе объединены 4 реляционные таблицы (~100 тыс. доставленных заказов за 2016–2018 гг.): заказы (`orders`), уникальные клиенты и их география (`customers`), платежи (`order_payments`) и товарные позиции со стоимостью доставки (`order_items`).
 
 ---
 
@@ -78,7 +78,7 @@
 
 ## 7. Инструкция по запуску проекта
 1. Склонируйте репозиторий или скачайте архив с файлами проекта.
-2. Скачайте исходный датасет с [Kaggle (Olist)]([https://kaggle.com](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) и распакуйте CSV-файлы в папку `data/`.
+2. Скачайте исходный датасет с [Kaggle (Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) и распакуйте CSV-файлы в папку `data/`.
 3. Установите необходимые зависимости:
    ```bash
    pip install -r requirements.txt
