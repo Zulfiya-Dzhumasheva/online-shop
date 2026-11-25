@@ -78,7 +78,7 @@
 
 ## 7. Инструкция по запуску проекта
 1. Склонируйте репозиторий или скачайте архив с файлами проекта.
-2. Скачайте исходный датасет с [Kaggle (Olist)](https://kaggle.com) и распакуйте CSV-файлы в папку `data/`.
+2. Скачайте исходный датасет с [Kaggle (Olist)]([https://kaggle.com](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) и распакуйте CSV-файлы в папку `data/`.
 3. Установите необходимые зависимости:
    ```bash
    pip install -r requirements.txt
